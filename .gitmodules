@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:chrisbakeraugie/monday-candle-frontend.git
-[submodue "backend"]
+[submodule "backend"]
 	path = backend
 	url = git@github.com:chrisbakeraugie/monday-candle-backend.git
